@@ -1,4 +1,4 @@
 # GitHubのテストページ
 
 - おはようございます
-- aaaabbbbccccdefghijklmnop
+- aaa
